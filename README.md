@@ -1,3 +1,5 @@
+Creator and maintainer of some niche acoustics-related tools. Self-taught programmer so beware of the bugs!
+
 - 👋 Hi, I’m @thomasmays
 - 👀 I’m interested in bikes
 - 🌱 I’m currently learning cool bike tricks
